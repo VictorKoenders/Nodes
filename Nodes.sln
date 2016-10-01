@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{268E33EF-BF35-4319-9883-A5487E2A4251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpNode", "TcpNode\TcpNode.csproj", "{25AA009A-4B75-4982-8470-6DF7ECBAAC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRCBotNode", "IRCBotNode\IRCBotNode.csproj", "{0F717E91-2EE7-42B1-8ABC-FF8671DB75BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268E33EF-BF35-4319-9883-A5487E2A4251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268E33EF-BF35-4319-9883-A5487E2A4251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268E33EF-BF35-4319-9883-A5487E2A4251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268E33EF-BF35-4319-9883-A5487E2A4251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AA009A-4B75-4982-8470-6DF7ECBAAC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AA009A-4B75-4982-8470-6DF7ECBAAC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AA009A-4B75-4982-8470-6DF7ECBAAC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AA009A-4B75-4982-8470-6DF7ECBAAC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F717E91-2EE7-42B1-8ABC-FF8671DB75BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F717E91-2EE7-42B1-8ABC-FF8671DB75BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F717E91-2EE7-42B1-8ABC-FF8671DB75BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F717E91-2EE7-42B1-8ABC-FF8671DB75BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
